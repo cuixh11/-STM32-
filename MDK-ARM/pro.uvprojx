@@ -541,6 +541,56 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>New Group</GroupName>
+          <Files>
+            <File>
+              <FileName>ds18b20.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\ds18b20.h</FilePath>
+            </File>
+            <File>
+              <FileName>HK711.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\HK711.h</FilePath>
+            </File>
+            <File>
+              <FileName>oledfont.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\oledfont.h</FilePath>
+            </File>
+            <File>
+              <FileName>XIANSHISPI.H</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\XIANSHISPI.H</FilePath>
+            </File>
+            <File>
+              <FileName>gpio.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Inc\gpio.h</FilePath>
+            </File>
+            <File>
+              <FileName>main.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Inc\main.h</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f1xx_hal_conf.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Inc\stm32f1xx_hal_conf.h</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f1xx_it.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Inc\stm32f1xx_it.h</FilePath>
+            </File>
+            <File>
+              <FileName>tim.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Inc\tim.h</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
       </Groups>
